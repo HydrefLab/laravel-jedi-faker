@@ -1,0 +1,27 @@
+{
+    "name": "hydreflab/laravel-jedi-faker",
+    "type": "library",
+    "description": "Laravel provider for Jedi Faker",
+    "keywords": ["laravel", "faker", "faker-extension", "fixtures", "data", "star-wars"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/HydrefLab/laravel-jedi-faker/issues",
+        "source": "https://github.com/HydrefLab/laravel-jedi-faker"
+    },
+    "authors": [
+        {
+            "name": "Michał Golon",
+            "email": "michal.golon@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "hydreflab/jedi-faker": "~1.0",
+        "illuminate/support": "~5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "HydrefLab\\Laravel\\JediFaker\\": "src/"
+        }
+    }
+}
