@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/9950778/34909614-eab4956c-f8a4-11e7-974e-067cd19f6803.png" />
+    <br /><br />
+</p>
+
 Package provides simple [JediFaker](https://github.com/HydrefLab/jedi-faker) binding into Laravel factories.
 
 JediFaker is an extension for Faker data generator. It does not affect original Faker in any way.
