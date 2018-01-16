@@ -23,5 +23,12 @@
         "psr-4": {
             "HydrefLab\\Laravel\\JediFaker\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HydrefLab\\Laravel\\JediFaker\\JediFakerServiceProvider"
+            ]
+        }
     }
 }
